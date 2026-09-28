@@ -1,16 +1,4 @@
-[ReadMe (1).md](https://github.com/user-attachments/files/32760829/ReadMe.1.md)
-## Hi there 👋
-
-<!--
-**OmniaAbdoun/OmniaAbdoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 About Me<br><br>🔭 I’m currently working on<br>Product design projects that combine UX research, UI design, and design systems.<br><br>👯 I’m looking to collaborate on<br>Product, UI/UX, and frontend projects where I can contribute to both design and implementation.<br><br>🤝 I’m looking for help with<br>Growing my frontend skills and learning how to turn my designs into well-built, functional products.<br><br>🌱 I’m currently learning<br>JavaScript → TypeScript → React, while strengthening my programming and problem-solving skills.<br><br>💬 Ask me about<br>Product design, UX/UI, Figma, design systems, or my journey from design into technology.<br><br>⚡ Fun fact<br>I started my career in a completely different field and transitioned into UI/UX — and now I'm learning to code so I can understand and build the products I design.
 
 
@@ -28,7 +16,3 @@ About Me<br><br>🔭 I’m currently working on<br>Product design projects that 
 [![](https://komarev.com/ghpvc/?username=OmniaAbdoun&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
